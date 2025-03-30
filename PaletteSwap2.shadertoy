@@ -2,8 +2,8 @@
 // https://lospec.com/palette-list/cornsole2
 const int          paletteCount  =      2 ;
 const vec3 palette[paletteCount] = vec3[2](
-      vec3(100.0, 149.0, 237.0) / 255.0,
-      vec3(255.0, 248.0, 220.0) / 255.0
+      vec3(100.0, 150.0, 240.0) / 255.0,
+      vec3(255.0, 250.0, 220.0) / 255.0
 );
 
   void mainImage( out vec4 fragColor, in vec2 fragCoord )
